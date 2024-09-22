@@ -29,16 +29,13 @@ Que1. What is paradigam?
 >>Syntax to define a class
 >> <Access modifier > class <className>
 >>{
->>      class body it contains:- 
->>
->>      1.Method 2.instance varibles 3.constructors 4. nested class 5.statics or instance blocks
->>
+>>      class body
 >>}
 >>where as Class name is a userdefined name and first char of it should be capital.
->>
 >>         Access modifier can be private, default.[Package Protected, Protected, Public].
->>
 >>         Default access modifier is package protected.
+>> Class body it contains:- 
+>>      1.Method 2.instance varibles 3.constructors 4. nested class 5.statics or instance block
 
 # Methods
  
@@ -47,6 +44,7 @@ Que2. What is method in a class?
 >A block of code which perform a particular task is called a "Method pr Function".
 >Generally method name start with verb.
 >>for examples:- get(), set() etc
+
 >>Method name should start with lower case letter.
 
 Que3. what are the advantages of method?
