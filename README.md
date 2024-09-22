@@ -6,6 +6,7 @@
 OOPS is programming paradigam or methodology.
 
 Que1. What is paradigam?
+
 ans:- It is a way to solve a problem, an approach to solve a problem using some programming language or method to solve 
       a problem using tools and technique that are available.
 
@@ -18,7 +19,8 @@ ans:- It is a way to solve a problem, an approach to solve a problem using some 
 6. Polymorphism
 
 # Class 
--Class is a collection of object.
+
+-Class is a collection of object. 
 -Class can be thought of as a Virtual Enitity.
 -Class is a templete or scalaten or Blueprint Prototype.
 -Class does't occupy memory.
@@ -27,7 +29,8 @@ ans:- It is a way to solve a problem, an approach to solve a problem using some 
 
 <Access modifier > class <className>
 {
-      class body it contain
+      class body it contains:- 
+
       1.Method 2.instance varibles 3.constructors 4. nested class 5.statics or instance blocks
 
 }
@@ -38,6 +41,7 @@ where as Class name is a userdefined name and first char of it should be capital
 # Methods
  
 Que2. What is method in a class?
+
 Ans:- A block of code which perform a particular task is called a "Method pr Function".
 
 -Generally method name start with verb.
