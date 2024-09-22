@@ -26,11 +26,13 @@ Que1. What is paradigam?
 >Class is a templete or scalaten or Blueprint Prototype.
 >Class does't occupy memory.
 >>for example- animal, bird.
+
 >>Syntax to define a class
 >> <Access modifier > class <className>
 >>{
 >>      class body
 >>}
+>>
 >>where as Class name is a userdefined name and first char of it should be capital.
 >>         Access modifier can be private, default.[Package Protected, Protected, Public].
 >>         Default access modifier is package protected.
