@@ -8,7 +8,7 @@ OOPS is programming paradigam or methodology.
 
 Que1. What is paradigam?
 
-ans:- It is a way to solve a problem, an approach to solve a problem using some programming language or method to solve 
+>> It is a way to solve a problem, an approach to solve a problem using some programming language or method to solve 
       a problem using tools and technique that are available.
 
 # Their are "Six" main pillars of OOPS:- 
@@ -60,5 +60,5 @@ Que3. what are the advantages of method?
 Ans:- Advanatges of method :-
 
       i.code reuseability ii.Memory optimization iii. Code optimization iv.Less or easy maintance
-      
+
       v. Reduce code size vi.Incerase readability of code.
